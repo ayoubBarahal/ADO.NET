@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\source\\repos\\ADOExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4973BE8B-F8A6-46A4-8E89-1879758D76BE}|ADOExample\\ADOExample.csproj|c:\\users\\hp\\source\\repos\\adoexample\\adoexample\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4973BE8B-F8A6-46A4-8E89-1879758D76BE}|ADOExample\\ADOExample.csproj|solutionrelative:adoexample\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4973BE8B-F8A6-46A4-8E89-1879758D76BE}|ADOExample\\ADOExample.csproj|C:\\Users\\hp\\source\\repos\\ADOExample\\adoexample\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4973BE8B-F8A6-46A4-8E89-1879758D76BE}|ADOExample\\ADOExample.csproj|solutionrelative:adoexample\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4973BE8B-F8A6-46A4-8E89-1879758D76BE}|ADOExample\\ADOExample.csproj|C:\\Users\\hp\\source\\repos\\ADOExample\\adoexample\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4973BE8B-F8A6-46A4-8E89-1879758D76BE}|ADOExample\\ADOExample.csproj|solutionrelative:adoexample\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4973BE8B-F8A6-46A4-8E89-1879758D76BE}|ADOExample\\ADOExample.csproj|C:\\Users\\hp\\source\\repos\\ADOExample\\adoexample\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4973BE8B-F8A6-46A4-8E89-1879758D76BE}|ADOExample\\ADOExample.csproj|solutionrelative:adoexample\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4973BE8B-F8A6-46A4-8E89-1879758D76BE}|ADOExample\\ADOExample.csproj|C:\\Users\\hp\\source\\repos\\ADOExample\\adoexample\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4973BE8B-F8A6-46A4-8E89-1879758D76BE}|ADOExample\\ADOExample.csproj|solutionrelative:adoexample\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4973BE8B-F8A6-46A4-8E89-1879758D76BE}|ADOExample\\ADOExample.csproj|C:\\Users\\hp\\source\\repos\\ADOExample\\adoexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4973BE8B-F8A6-46A4-8E89-1879758D76BE}|ADOExample\\ADOExample.csproj|solutionrelative:adoexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4973BE8B-F8A6-46A4-8E89-1879758D76BE}|ADOExample\\ADOExample.csproj|C:\\Users\\hp\\source\\repos\\ADOExample\\adoexample\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4973BE8B-F8A6-46A4-8E89-1879758D76BE}|ADOExample\\ADOExample.csproj|solutionrelative:adoexample\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4973BE8B-F8A6-46A4-8E89-1879758D76BE}|ADOExample\\ADOExample.csproj|C:\\Users\\hp\\source\\repos\\ADOExample\\adoexample\\ibdata1dataset.xss||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4973BE8B-F8A6-46A4-8E89-1879758D76BE}|ADOExample\\ADOExample.csproj|solutionrelative:adoexample\\ibdata1dataset.xss||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\ADOExample\\ADOExample\\Form2.cs",
+              "RelativeDocumentMoniker": "ADOExample\\Form2.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\ADOExample\\ADOExample\\Form2.cs",
+              "RelativeToolTip": "ADOExample\\Form2.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAuwGEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T11:15:25.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form2.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\ADOExample\\ADOExample\\Form2.Designer.cs",
+              "RelativeDocumentMoniker": "ADOExample\\Form2.Designer.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\ADOExample\\ADOExample\\Form2.Designer.cs",
+              "RelativeToolTip": "ADOExample\\Form2.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T11:21:39.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\ADOExample\\ADOExample\\Form2.cs",
+              "RelativeDocumentMoniker": "ADOExample\\Form2.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\ADOExample\\ADOExample\\Form2.cs [Design]",
+              "RelativeToolTip": "ADOExample\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T11:12:29.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\ADOExample\\ADOExample\\Form1.cs",
+              "RelativeDocumentMoniker": "ADOExample\\Form1.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\ADOExample\\ADOExample\\Form1.cs [Design]",
+              "RelativeToolTip": "ADOExample\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T16:25:39.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ibdata1DataSet.xss",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\ADOExample\\ADOExample\\ibdata1DataSet.xss",
+              "RelativeDocumentMoniker": "ADOExample\\ibdata1DataSet.xss",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\ADOExample\\ADOExample\\ibdata1DataSet.xss",
+              "RelativeToolTip": "ADOExample\\ibdata1DataSet.xss",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAMqSURBVDhPjZTfS9pRFMCPvzYmCZpKLsxZLtuIYgrVSKjR9qY9j\u002Bipwj1sERTU/oGg9hL9BfnUyyxo0ct6CZQiK1YrGpT90hmU\u002BYPy5/y5c6/XppmsDxz0nnPu\u002BZ577jkX/kd3d7cqEol8RLGHw\u002BEgSuaOnKFY7Ha7EbLZLIftuxez2WwYGBh4LxKJTMfHx9KNjY0nXq\u002BXz8yUpqamPyghuVx\u002B5PP5vpYNiMEe9fT0fFIqlYMHB4e1cpkcLi8vIRwJM48ciqoq4HA4kEqnogaD4bDoa4UYjUZBc3Oz0u1212JWoNfpoaGhgVmL\u002BbW/D64jtxD/vuLmVKV4PJ5MMBjMJJMp8Pt9mJ0XcA03NzdFgseEK98V/U8om\u002BHo6GgMnZKtra2wsrICzkMnZvgCxBIx88hxdnoKWN9bfVENu7q63o2MjHxmS6irq9OIxWL17u4uzMzMQDqdBj5fwKw5YrEoSoz4wtTUVHGGCoXiqV6vf7u0tASpVAqwfqBSqQBrCZlMBgKBAPMsT0kNQ6EQLCwsgNVqpbK2tsYsD6MkIJfLhcrKSjwaH4RCIVRUVDDLwygJWIV9NTExAVqtlrQO9Pf3M8vDoDUcHx//otFontfU1Kh4PB7NUCAQ0AxxSiCRSMDQ0BD9JSUgt14I2UP8CTRgR0fHG\u002Bz2FqfTCUQIZCrI7eJ40jWhvb2dXlIhEomE6nQ6XQSX\u002B7RtbDabY3Nzs2V1dbVkAyGZTNIPjY2N0SyXl5eZBaC6ujre2NgYwH0HLpfLyseii/AiaC3xK4B9SB2jCB6F9xjx\u002B/23\u002Bs7OTnKiFGaO7RfLYjt5UG3b2dn5ZjKZvvPx2XFg7Z45HA66Ic/w8PBgW1vba7yUD0x1Cwb7cX19PdjX1xfBrBKoisbjcTp7fBz4l7Ozs9nt7W06CRaLBXp7e8ks/66vr9eSo87NzdH\u002BXFxcpA0vlUrDk5OTP9fX15NEXwg96tbWFpyfn8PFxQWQTEngPGT4SW1J7fb29uDk5ATw9cnOz8\u002BXBCPQgHhkwGyoqNVq\u002Br7lIY2dtxGRyWTMcj\u002B0bbDgZR9anGPO9PQ0W\u002BW424f/APgLhKeOqUy7wgkAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-11-03T09:24:03.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\ADOExample\\ADOExample\\Program.cs",
+              "RelativeDocumentMoniker": "ADOExample\\Program.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\ADOExample\\ADOExample\\Program.cs",
+              "RelativeToolTip": "ADOExample\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAADgvxYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T17:13:41.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\ADOExample\\ADOExample\\Form1.cs",
+              "RelativeDocumentMoniker": "ADOExample\\Form1.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\ADOExample\\ADOExample\\Form1.cs",
+              "RelativeToolTip": "ADOExample\\Form1.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAqwF8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T17:13:30.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DBConnection.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\ADOExample\\ADOExample\\DBConnection.cs",
+              "RelativeDocumentMoniker": "ADOExample\\DBConnection.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\ADOExample\\ADOExample\\DBConnection.cs",
+              "RelativeToolTip": "ADOExample\\DBConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T09:46:50.398Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
